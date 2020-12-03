@@ -1,0 +1,58 @@
+h1{
+    font-style: italic;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul{
+    text-align: right;
+}
+
+header{
+    background-color: white;
+}
+.background{
+    /*
+    background (image) permet de mettre l'image fond.
+    mettre le lien extern dans l'url
+    no-repeat: evite que l'image soit repetée
+    center center: image centrée horizontalement et verticalement
+    background-size permet de redimensionner l'image
+    cover prend tout l'ecran
+    */
+
+} 
+
+.texte1{
+    text-align: right;
+}
+
+.img1{
+    float: left;
+    width: 300px;
+}
+
+h2{
+    border: black solid;
+    background-color: orange;
+    color: white;
+}
+
+.texte2{
+    text-align: left;
+}
+
+.texte3{
+    text-align: justify;
+}
+.img2{
+    float: right;
+    width: 300px;
+}
+
+.img3{
+    float: right;
+    width: 300px;
+}

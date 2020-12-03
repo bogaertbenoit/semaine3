@@ -1,0 +1,49 @@
+h1{
+    color: blue;
+    font-weight: bold;
+}
+
+.highlight{
+    background-color: yellow;
+    font-style: italic;
+}
+
+#main-menu{
+    border-radius: 10px ;
+    border: 5px black solid;
+}
+
+.highlight .highlight{
+    color: blue;
+}
+
+article p{
+    border: black dotted 5px;
+}
+
+h2{
+    font-size: 0,5em;
+    text-transform: uppercase;
+}
+
+.parent div{
+    width: 200px;
+    height:200px;
+    display: inline-block;
+}
+
+.carre1{
+    background-color: yellow;
+}
+.carre2{
+    background-color: yellowgreen;
+}
+.carre3{
+    background-color: black;
+}
+.carre4{
+    background-color: blueviolet;
+}
+li{
+    display: inline;
+}
